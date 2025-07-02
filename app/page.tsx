@@ -1,6 +1,7 @@
 'use client'
 
 import PromptForm from '@/components/PromptForm'
+import PromptResult from '@/components/PromptResult'
 import LanguageToggle from '@/components/LanguageToggle'
 import ThemeToggle from '@/components/ThemeToggle'
 import WordRotator from '@/components/WordRotator'
